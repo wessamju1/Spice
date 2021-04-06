@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Spice.Data;
 using System;
 using System.Collections.Generic;
@@ -17,9 +18,11 @@ namespace Spice.Areas.Admin.Controllers
         {
             _db = db;
         }
-        public IActionResult Index()
+
+        //Get
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _db.Category.ToListAsync());
         }
     }
 }

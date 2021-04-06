@@ -832,7 +832,6 @@ D:\Spice\Spice-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 D:\Spice\Spice-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Spice\Spice-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Spice\Spice-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.csprojAssemblyReference.cache
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.AssemblyInfoInputs.cache
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.AssemblyInfo.cs
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.csproj.CoreCompileInputs.cache
@@ -904,3 +903,5 @@ D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.csprojAssemblyReference.cache
+D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
