@@ -905,3 +905,7 @@ D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_Valida
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.csprojAssemblyReference.cache
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateButtonPartial.cshtml.g.cs
+D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
