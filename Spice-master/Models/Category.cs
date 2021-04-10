@@ -10,7 +10,8 @@ namespace Spice.Models
     {
         [Key]
         public int Id { get; set; }
-
+        // you can use this to change the display of a property in asp-for 
+        //[Display(Name="Category Name ")]
         [Required]
         public string Name { get; set; }
     }
