@@ -912,3 +912,4 @@ D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.csproj.CopyComplete
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.dll
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.pdb
 D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.genruntimeconfig.cache
+D:\Spice\Spice-master\obj\Debug\netcoreapp3.1\Spice.csprojAssemblyReference.cache
