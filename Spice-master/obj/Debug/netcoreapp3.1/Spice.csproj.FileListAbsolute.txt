@@ -1396,3 +1396,4 @@ F:\SpiceCloned\Spice-master\obj\Debug\netcoreapp3.1\Spice.pdb
 F:\SpiceCloned\Spice-master\obj\Debug\netcoreapp3.1\Spice.genruntimeconfig.cache
 F:\SpiceCloned\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
 F:\SpiceCloned\Spice-master\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_GoToEditAndBackButton.cshtml.g.cs
+F:\SpiceCloned\Spice-master\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategory\Index.cshtml.g.cs
