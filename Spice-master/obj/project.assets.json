@@ -8898,19 +8898,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wjuby\\.nuget\\packages\\": {}
+    "C:\\Users\\Vic-WHaram\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Spice\\Spice-master\\Spice.csproj",
+      "projectUniqueName": "F:\\SpiceCloned\\Spice-master\\Spice.csproj",
       "projectName": "Spice",
-      "projectPath": "D:\\Spice\\Spice-master\\Spice.csproj",
-      "packagesPath": "C:\\Users\\wjuby\\.nuget\\packages\\",
-      "outputPath": "D:\\Spice\\Spice-master\\obj\\",
+      "projectPath": "F:\\SpiceCloned\\Spice-master\\Spice.csproj",
+      "packagesPath": "C:\\Users\\Vic-WHaram\\.nuget\\packages\\",
+      "outputPath": "F:\\SpiceCloned\\Spice-master\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\wjuby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vic-WHaram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

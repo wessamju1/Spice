@@ -127,6 +127,25 @@ namespace Spice.Areas.Admin.Controllers
         }
 
 
+        //Get Edit
+
+        //Try Without the "?" Mark for the nullable types ***********
+
+        public async Task<IActionResult> Details(int? id)
+        {
+
+
+            if (id == null)
+            {
+                return NotFound();
+            }
+            var category = await _db.Category.FindAsync(id);
+            if (category == null)
+            {
+                NotFound();
+            }
+            return View(category);
+        }
 
 
     }
